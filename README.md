@@ -3,8 +3,8 @@
 To do list:
 
 - [x] Cloud Practioners Certificate
-- [ ] HTML resume
-- [ ] CSS
+- [x] HTML resume
+- [x] CSS
 - [ ] S3 Website
 - [ ] HTTPS
 - [ ] DNS
@@ -17,3 +17,8 @@ To do list:
 - [ ] CI/CD backend
 - [ ] CI/CD frontend
 - [ ] Blogpost
+
+Additional:
+
+- [ ] Expand CV to cover software development
+- [ ] Improve CSS

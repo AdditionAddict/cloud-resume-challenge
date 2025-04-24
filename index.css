@@ -1,0 +1,37 @@
+body {
+    margin: auto;
+    max-width: 600px;
+}
+
+.section-heading {
+    color: darkslateblue;
+    text-transform: uppercase;
+    font-size: medium;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.role-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.job-title {
+    color: darkslateblue;
+    display: contents;
+}
+
+.job-dates {
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+}
+
+.experience-item {
+    text-wrap: pretty;
+}
+
+.spacer {
+    flex: 1 0;
+}
