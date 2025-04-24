@@ -5,15 +5,15 @@ To do list:
 - [x] Cloud Practioners Certificate
 - [x] HTML resume
 - [x] CSS
-- [ ] S3 Website
-- [ ] HTTPS
+- [x] S3 Website
+- [x] HTTPS
 - [ ] DNS
 - [ ] JS visitor counter
 - [ ] DB
 - [ ] API
 - [ ] Python lambda
 - [ ] Python testing
-- [ ] IaC
+- [x] IaC - pulumi
 - [ ] CI/CD backend
 - [ ] CI/CD frontend
 - [ ] Blogpost

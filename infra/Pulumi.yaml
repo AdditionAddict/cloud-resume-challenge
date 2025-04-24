@@ -1,0 +1,7 @@
+name: cloud-resume-challenge
+description: A Go program to deploy a static website on AWS
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: static-website-aws-go

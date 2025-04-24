@@ -1,0 +1,7 @@
+config:
+  aws:region: eu-west-2
+  aws:profile: 097423745418_AdministratorAccess
+  cloud-resume-challenge:errorDocument: error.html
+  cloud-resume-challenge:indexDocument: index.html
+  cloud-resume-challenge:path: ../www
+  pulumi:template: static-website-aws-go
